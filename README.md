@@ -18,6 +18,17 @@ File `dashboard/olist.pbix` (da aprire con Power BI Desktop), 3 pagine:
 - **Logistica e geografia:** tempi di consegna e ritardi, confronto tra stati.
 - **Clienti e recensioni:** clienti unici, riacquisto, distribuzione dei voti.
 
+## Dashboard Power BI
+
+### Fatturato e vendite
+![Fatturato e vendite](dashboard/output/1-fatturato-vendite.png)
+
+### Logistica e geografia
+![Logistica e geografia](dashboard/output/2-logistica-geografica.png)
+
+### Clienti e recensioni
+![Clienti e recensioni](dashboard/output/3-clienti-recensioni.png)
+
 ## Risultati principali
 
 - **Fatturato** 13,59 mln R$ su 98.666 ordini (valore medio ordine ≈ 137,75 R$); crescita forte nel 2017, picco a novembre 2017.
