@@ -1,0 +1,21 @@
+name: datawork
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.11
+  - notebook
+  - jupyterlab
+  - pandas
+  - numpy
+  - matplotlib
+  - seaborn
+  - scikit-learn
+  - scipy
+  - statsmodels
+  - requests
+  - beautifulsoup4
+  - openpyxl
+  - pip
+  - pip:
+      - yfinance
